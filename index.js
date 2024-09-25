@@ -1,4 +1,8 @@
 
+const companyName = 'Scuber';
+let mostProfitableNeighborhood='Chelsea'
+let companyCeo='Susan Smith'
+
 
 function saturdayFun(doThis="roller-skate") {
     return `This Saturday, I want to ${doThis}!`
